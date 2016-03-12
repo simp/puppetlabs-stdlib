@@ -47,13 +47,13 @@ mkdir -p %{buildroot}/%{prefix}/stdlib
 # Post uninstall stuff
 
 %changelog
-* Mon Nov 16 2016 Trevor Vaughan <tvaughan@onyxpoint.com> - 4.9.0-0.SIMP
+* Mon Jan 18 2016 Trevor Vaughan <tvaughan@onyxpoint.com> - 4.9.0-0.SIMP
 - Patching in the latest official 4.9.0
 
 * Mon Feb 02 2015 Trevor Vaughan <tvaughan@onyxpoint.com> - 4.5.1-0.SIMP
 - Patching in the latest official 4.5.1
 
-* Mon Apr 16 2014 Trevor Vaughan <tvaughan@onyxpoint.com> - 4.1.0-1.SIMP
+* Mon Apr 14 2014 Trevor Vaughan <tvaughan@onyxpoint.com> - 4.1.0-1.SIMP
 - Patching in the latest official 4.1.0
 
 * Mon Apr 07 2014 Trevor Vaughan <tvaughan@onyxpoint.com> - 4.1.0-0.SIMP
