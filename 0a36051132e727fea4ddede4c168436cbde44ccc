@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a6ff13c_d0fe2938",
+        "filename": "build/puppetlabs-stdlib.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1005194
+      },
+      "writtenOn": "2016-03-14T15:54:48Z",
+      "side": 1,
+      "message": "Back to the future!",
+      "range": {
+        "startLine": 50,
+        "startChar": 2,
+        "endLine": 50,
+        "endChar": 17
+      },
+      "revId": "0a36051132e727fea4ddede4c168436cbde44ccc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
