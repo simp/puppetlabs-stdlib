@@ -22,6 +22,30 @@
       "revId": "0a36051132e727fea4ddede4c168436cbde44ccc",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a6ff13c_70b6558c",
+        "filename": "build/puppetlabs-stdlib.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1005143
+      },
+      "writtenOn": "2016-03-14T15:58:33Z",
+      "side": 1,
+      "message": "He\u0027s ahead of his time!",
+      "parentUuid": "3a6ff13c_d0fe2938",
+      "range": {
+        "startLine": 50,
+        "startChar": 2,
+        "endLine": 50,
+        "endChar": 17
+      },
+      "revId": "0a36051132e727fea4ddede4c168436cbde44ccc",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
